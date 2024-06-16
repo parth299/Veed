@@ -1,12 +1,9 @@
 import {
-    Badge,
-    Group,
     Title,
     Text,
     Card,
     SimpleGrid,
     Container,
-    rem,
     Divider,
     useMantineTheme,
     Button,
